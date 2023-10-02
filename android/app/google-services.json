@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "168279868294",
+    "project_id": "greentech-ffd28",
+    "storage_bucket": "greentech-ffd28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168279868294:android:3d9593e9f5641f15292207",
+        "android_client_info": {
+          "package_name": "com.example.green_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWjwSVCX-hFQ3lSNYwHLlwltr_5vuVFog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168279868294:android:7ea9c75d4216f16a292207",
+        "android_client_info": {
+          "package_name": "com.mycompany.greentech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWjwSVCX-hFQ3lSNYwHLlwltr_5vuVFog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
