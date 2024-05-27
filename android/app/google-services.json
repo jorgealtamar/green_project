@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "245196026042",
+      "project_id": "green-tech-f15a5",
+      "storage_bucket": "green-tech-f15a5.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:245196026042:android:660edb391002fd12b69283",
+          "android_client_info": {
+            "package_name": "com.example.green_project"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDUfYERP3Qcw0qbJGpZaWQ9wIBjsR-RaSo"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
